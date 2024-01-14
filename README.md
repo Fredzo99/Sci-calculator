@@ -1,5 +1,5 @@
 # SciGraph Calculator
-### by Sam Pullman
+### by Fredzo99
 
 This is a scientific graphing calculator with the following features:
 * Main calculator mode with trig functions, complex number calculations, previous input/result storage, and more.
